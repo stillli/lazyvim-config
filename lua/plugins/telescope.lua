@@ -3,7 +3,7 @@ return {
   opts = {
     defaults = {
       layout_config = {
-        width = 0.99,
+        width = 0.999,
       },
     },
   },
