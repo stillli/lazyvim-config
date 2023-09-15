@@ -1,9 +1,9 @@
 return {
-  -- Configure LazyVim to load habamax low contrast
+  { "sainnhe/everforest", lazy = true },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "habamax",
+      colorscheme = "everforest",
     },
   },
 }
